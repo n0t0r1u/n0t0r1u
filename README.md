@@ -122,5 +122,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by Erhan
+  Made by n0t0r1u
 </p>
