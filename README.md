@@ -70,7 +70,8 @@
 ## 📂 Featured Projects
 
 ### 🎮 Game Development
-*Coming soon - Check out my repositories for Unity projects and game prototypes!*
+*Build Game Design*
+* Check out my repositories for Unity projects and game prototypes!*
 
 ### 📱 Mobile Apps
 *Explore my Flutter and Android application projects*
