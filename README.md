@@ -96,6 +96,7 @@
 <a href="https://github.com/n0t0r1u">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=n0t0r1u&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n0t0r1u&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://leetcard.jacoblin.cool/n0t0r1u?theme=dark&font=Recursive" alt="LeetCode Card" />
 </a>
 
 </div>
